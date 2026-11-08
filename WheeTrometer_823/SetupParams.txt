@@ -1,0 +1,7 @@
+//Header file: C:\Users\summers\Documents\Processing\Wheetrometer_823\SetupParams.txt
+242,0.146952,0 // parameters for wavelength calibration
+2 // integration time (ms)
+8, true // pixel averaging
+true // background subtraction
+450, false // Zero Absorbance at wavelength (nm)
+300,600,true // trim wavelengths (nm)

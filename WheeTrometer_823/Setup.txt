@@ -1,0 +1,6 @@
+//Header file: C:\Users\summers\Documents\WheeTrometer\WheeTrometer_GUI\WheeTrometer\Setup.txt
+9990,Standard 0,2.0,1,1,200,800, 
+ 999,exp 1,2,1,1,0,0
+Jack,exp 1,10,4,8,0,0
+0007,experiment 0,0.5,1,4,0,0
+0007,experiment 0,9,4,1,0,0
